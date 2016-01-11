@@ -1,0 +1,2 @@
+# minhacore
+TrinityCore
